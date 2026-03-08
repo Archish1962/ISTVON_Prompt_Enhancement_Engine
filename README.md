@@ -91,17 +91,6 @@ NEEDS_FIX → Contains risky elements (sanitized + enhanced)
 ALLOW     → Safe to proceed (enhanced)
 ```
 
-### COSTAR Gap Analysis
-
-Checks if your prompt includes all essential elements:
-
-- **C**ontext — Background information
-- **O**bjective — Clear goal
-- **S**uccess — What success looks like
-- **T**imeline — Deadlines/constraints
-- **A**udience — Who it's for
-- **R**esources — Tools to use
-
 ### AI-Powered Enhancement
 
 Uses Google Gemini AI to:
